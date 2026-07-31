@@ -8,8 +8,9 @@ security. I like owning a service from the first request to the on-call page.
 
 ### What I do
 
-I run **ATSAlign** ([atsalign.com](https://atsalign.com)) — a production AI
-service with a **FastAPI** backend on **Google Cloud Run**, a
+I run **ATSAlign** ([atsalign.com](https://www.atsalign.com)) — an AI-powered ATS
+resume checker and optimizer that tailors resumes to any job description. It's a
+production AI service with a **FastAPI** backend on **Google Cloud Run**, a
 **Next.js / TypeScript** frontend on **Vercel**, and **PostgreSQL** (with
 row-level security) as the system of record. An **LLM-backed pipeline** does the
 heavy lifting; **Sentry** watches it; **Cloud Build** ships it on every push to
@@ -40,4 +41,4 @@ heavy lifting; **Sentry** watches it; **Cloud Build** ships it on every push to
 
 ---
 
-📫 **varunnarendrag@gmail.com** · [atsalign.com](https://atsalign.com)
+📫 **varunnarendrag@gmail.com** · [atsalign.com](https://www.atsalign.com)
